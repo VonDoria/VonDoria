@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning .NET MVC, React, Next.js
 - 💬 Ask me about aliens movies.👽
 - ⚡ Fun fact: I can identify the difference between planets and stars in the sky.⭐🪐⭐
-- 📫 How to reach me: <a title="Ítalo_Dória" href="https://www.linkedin.com/in/%C3%ADtalo-faria-d%C3%B3ria-51a341193/"><img src="	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a/> - [![Gmail Badge](https://img.shields.io/badge/-italo.faria0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:italo.faria0@gmail.com)](mailto:italo.faria0@gmail.com)
+- 📫 How to reach me:[![Gmail Badge](https://img.shields.io/badge/-italo.faria0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:italo.faria0@gmail.com)](mailto:italo.faria0@gmail.com) - 
 
 ## 🚀💻 Technologies & Tools
 
